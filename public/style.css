@@ -192,4 +192,6 @@ nav ul li a:hover{
     background-size: cover;
     position: absolute;
     z-index: -1;
+    min-height: 210vh;
+    max-height: 210vh;
 }
