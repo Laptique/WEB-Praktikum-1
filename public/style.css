@@ -51,7 +51,7 @@ body{
 /*Navigation bar */
 nav{
     width: 100%;
-    height: 12em;
+    height: 11em;
     position: absolute;
     top: 0;
     left: 0;
@@ -59,7 +59,7 @@ nav{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    /*box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.35);*/
+    box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.35);
     backdrop-filter: blur(10px);
 }
 /*Logo */
@@ -200,11 +200,91 @@ nav ul li a:hover{
     margin-top: 40px;
 }
 
+
+/* */
+/* */
+/*The Contact-Form element */
+.kontakt-section{
+    margin-left: auto;
+    margin-right: auto;
+    top: 200px;
+    min-height: 10em;
+    display: table-cell;
+    vertical-align: middle;
+    width: 56em;
+    position: relative;
+}
+.kontakt-section h1{
+text-align: center;
+}
+
+/*Each individual cell (Name, E-mail etc) */
+.kontakt-form{
+    max-width: 600px;
+    margin: auto;
+    padding: 0 10px;
+    overflow: hidden;
+}
+/*Styling the text within those cells*/
+.kontakt-form-text{
+    background: #ffffff8e;
+    display: block;
+    width: 100%;
+    box-sizing: border-box;
+    margin: 16px 0;
+    border: 0;
+    padding: 20px 40px;
+    outline: none;
+    color: #ddd
+    transition: 0.5s;
+}
+/*When inside one of those cells, the cell glows*/
+.kontakt-form-text:focus{
+    box-shadow: 0 0 10px 4px rgb(95, 176, 255);
+}
+/*Styling the message box*/
+textarea.kontakt-form-text{
+    resize: none;
+    height: 120px;
+}
+/*The "Send" button*/
+.kontakt-form-btn{
+    float: right;
+    border: 0;
+    background: #5FB0FF;
+    color: #fff;
+    padding: 12px 50px;
+    border-radius: 20px;
+    cursor: pointer;
+    transition: 0.5;
+}
+/*The "Send" button - on cursor hover, change color*/
+.kontakt-form-btn:hover{
+    background: rgb(35, 136, 238);
+}
+
+/* */
+/* */
+/* */
+
+
+/* */
 /* */
 /* */
 /*The background image from leistungen.html */
 .background-img2{
     background-image: url(bckimg3.jpg);
+    height: 100%;
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: absolute;
+    z-index: -2;
+}
+/*The background image from kontakt.html */
+.background-img3{
+    background-image: url(bckimg4.jpg);
     height: 100%;
     width: 100%;
     background-position: center;
