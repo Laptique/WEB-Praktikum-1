@@ -207,12 +207,15 @@ nav ul li a:hover{
 .kontakt-section{
     margin-left: auto;
     margin-right: auto;
-    top: 200px;
     min-height: 10em;
     display: table-cell;
     vertical-align: middle;
     width: 56em;
-    position: relative;
+    /* Center element */
+    margin-top: auto;
+    margin-bottom: auto;
+    /* navbar spacing */
+    padding-top: 11em;
 }
 .kontakt-section h1{
 text-align: center;
