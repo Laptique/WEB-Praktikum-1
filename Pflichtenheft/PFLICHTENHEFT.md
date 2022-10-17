@@ -1,4 +1,4 @@
-# Lastenheft der Praxis Niederrhein, Inc.
+# Pflichtenheft der Praxis Niederrhein, Inc.
 
 Die "Praxis Niederrhein AG", ein pharmazeutisches Unternehmen aus Krefeld, hat uns gebeten, eine neue Website für sie zu erstellen. 
 
