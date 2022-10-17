@@ -63,7 +63,7 @@ Schließlich haben wir uns entschieden, für die HOME-Seite ein Video anstelle e
 - LEISTUNGEN
 ![Prototype6](l1.png)
 
-Wir haben uns auch für einen sehr subtilen Farbverlauf (für alle Seiten) sowie eine leicht transparente Navigationsleiste entschieden, damit ihr Inhalt (das Logo und die Schaltflächen) von anderen Elementen auf der Seite unterschieden werden kann.
+Wir haben uns auch für einen sehr subtilen Farbverlauf (für alle Seiten) sowie eine leicht transparente Navigationsleiste entschieden, damit ihr Inhalt (das Logo und die Buttons) von anderen Elementen auf der Seite unterschieden werden kann.
 
 ![Home-Final](hfinal.png)
 
@@ -82,7 +82,7 @@ Unterhalb dieses Textes wollten wir eine Box hinzufügen, in der alle Leistungen
 ### 3) Die KONTAKT-Seite
 
 Auch für die KONTAKT-Seite haben wir uns entschieden, das Element der Einfachheit der vorherigen Seiten beizubehalten. Daher haben wir uns für ein einfaches (und dennoch modern aussehendes) Kontakt-Formular entschieden.
-Immer, wenn sich der Besucher in einem Textfeld befindet, sollten dessen Ränder in "Picton-Blau" leuchten (eine der vom Kunden gewünschten Farben). Wenn sich der Mauszeiger über der Schaltfläche "Senden" befindet, ändert sich die Farbe ebenfalls in "Cobalt" (eine weitere vom Kunden vorgegebene Farbe).
+Immer, wenn sich der Besucher in einem Textfeld befindet, sollten dessen Ränder in "Picton-Blue" leuchten (eine der vom Kunden gewünschten Farben). Wenn sich der Mauszeiger über der Schaltfläche "Senden" befindet, ändert sich die Farbe ebenfalls in "Cobalt" (eine weitere vom Kunden vorgegebene Farbe).
 
 ![Kontakt-Final](k1.png)
 
