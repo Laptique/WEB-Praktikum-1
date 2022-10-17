@@ -65,7 +65,7 @@ Schließlich haben wir uns entschieden, für die HOME-Seite ein Video anstelle e
 
 Wir haben uns auch für einen sehr subtilen Farbverlauf (für alle Seiten) sowie eine leicht transparente Navigationsleiste entschieden, damit ihr Inhalt (das Logo und die Buttons) von anderen Elementen auf der Seite unterschieden werden kann.
 
-![Home-Final](hfinal.png)
+![Home-Final](Hfinal.png)
 
 
 ### 2) Die LEISTUNGEN-Seite
