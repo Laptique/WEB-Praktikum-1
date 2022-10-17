@@ -276,7 +276,7 @@ textarea.kontakt-form-text{
 /* */
 /*The background image from leistungen.html */
 .background-img2{
-    background-image: url(bckimg3.jpg);
+    background-image: url(media/bckimg3.jpg);
     height: 100%;
     width: 100%;
     background-position: center;
@@ -287,7 +287,7 @@ textarea.kontakt-form-text{
 }
 /*The background image from kontakt.html */
 .background-img3{
-    background-image: url(bckimg4.jpg);
+    background-image: url(media/bckimg4.jpg);
     height: 100%;
     width: 100%;
     background-position: center;
