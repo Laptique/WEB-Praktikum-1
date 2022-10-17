@@ -19,7 +19,7 @@ Das Lastenheft befindet sich [hier](./LASTENHEFT.md)
 
 ## Pflichtenheft
 
-TODO
+Das Pflichtenheft befindet sich [hier](./Pflichtenheft/PFLICHTENHEFT.md)
 
 ## Team
 
