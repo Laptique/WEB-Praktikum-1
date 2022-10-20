@@ -23,7 +23,7 @@ Das Pflichtenheft befindet sich [hier](./PFLICHTENHEFT_NEU.md)
 
 ## Die Dokumentation
 
-Die Dokumentation befindet sich [hier](.Pflichtenheft/DOKUMENTATION.md)
+Die Dokumentation befindet sich [hier](.Pflichtenheft/DOKUMENTATION.MD)
 
 ## Team
 
