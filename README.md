@@ -19,7 +19,11 @@ Das Lastenheft befindet sich [hier](./LASTENHEFT.md)
 
 ## Pflichtenheft
 
-Das Pflichtenheft befindet sich [hier](./Pflichtenheft/PFLICHTENHEFT.md)
+Das Pflichtenheft befindet sich [hier](./PFLICHTENHEFT_NEU.md)
+
+## Die Dokumentation
+
+Die Dokumentation befindet sich [hier](.Pflichtenheft/DOKUMENTATION.md)
 
 ## Team
 
