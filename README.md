@@ -19,11 +19,11 @@ Das Lastenheft befindet sich [hier](./LASTENHEFT.md)
 
 ## Pflichtenheft
 
-Das Pflichtenheft befindet sich [hier](./PFLICHTENHEFT_NEU.md)
+Das Pflichtenheft befindet sich [hier](./PFLICHTENHEFT.md)
 
 ## Die Dokumentation
 
-Die Dokumentation befindet sich [hier](./praktikum-1-web/Pflichtenheft/DOKUMENTATION.MD)
+Die Dokumentation befindet sich [hier](./Dokumentation/DOKUMENTATION.md)
 
 ## Team
 
