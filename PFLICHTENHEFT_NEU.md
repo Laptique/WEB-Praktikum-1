@@ -34,7 +34,7 @@ Zu den inhaltlichen Anforderungen gibt es ein paar Anleitungen und Ideen, wie si
 
 # Das Konzept
 
-Der Kunde wünschte sich, dass die Website einige Anforderungen erfüllt (z. B. eine schnelle Ladezeit, sie sollte statisch sein und nur mit HTML und CSS erstellt werden), sowie obligatorische ästhetische Elemente (z. B. Farben wie #2ea3f0 - "Picton Blue" und #004aad - "Cobalt").
+Der Kunde wünschte sich, dass die Website einige Anforderungen erfüllt (z. B. eine schnelle Ladezeit, sie sollte statisch sein und nur mit HTML und CSS erstellt werden), sowie obligatorische ästhetische Elemente (z. B. Farben wie "Picton Blue" und "Cobalt").
 
 Wir wollen, dass die Website ein minimalistisches Aussehen hat, aber dennoch einige Elemente von Professionalität und "moderner Architektur" für die drei Seiten (Home, Leistungen und Kontakt) aufweist.
 ### Das Format der Seiten
