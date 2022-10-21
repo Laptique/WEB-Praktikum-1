@@ -60,6 +60,7 @@ Für Leistungen und Kontakt sollte die Fußzeile gleich sein und nur die zusätz
 
 - Ebenfalls nur für diese Seite sollte die Fußzeile viel mehr Informationen enthalten als die Fußzeile von Leistungen und Kontakt. Dabei sollte erwähnt werden, wie gut ihre Dienstleistungen sind, wie niedrig ihre Preise sind und wie freundlich und professionell ihr Personal ist. Der Rest ist der Kreativität unseres Teams überlassen.
 
+![Concept1](concept1.png)
 ### Die LEISTUNGEN-Seite
 
 - Für diese Seite benötigen wir eines der vielen Bilder, die uns der Kunde zur Verfügung gestellt hat, das wir als Hintergrundbild verwenden werden. 
@@ -70,6 +71,7 @@ Für Leistungen und Kontakt sollte die Fußzeile gleich sein und nur die zusätz
 
 - Am unteren Ende der Seite sollte die Fußzeile stehen, deren Gestaltung am Ende [dieses Abschnitts](#das-format-der-seiten) beschrieben wird.
 
+![Concept2](concept2.png)
 ### Die KONTAKT-Seite
 
 - Der große Text in der Mitte sollte sich jetzt links in der Mitte der Seite befinden, und zwar unter "Kontakt".
@@ -81,3 +83,5 @@ Für Leistungen und Kontakt sollte die Fußzeile gleich sein und nur die zusätz
 - Unten rechts in diesem Kontaktformular sollte eine Button "Senden" in der Farbe "Cobalt" zu sehen sein. Sie sollte jedoch auch ihre Farbe in "Picton-Blau" ändern, wenn der Besucher mit der Mauszeiger über ihr schwebt.
 
 - Ähnlich wie bei der Leistungen-Seite werden wir auch ein Hintergrundbild verwenden, und die Fußzeile sollte auch identisch sein. 
+
+![Concept3](concept3.png)
