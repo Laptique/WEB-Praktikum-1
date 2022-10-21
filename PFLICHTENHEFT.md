@@ -28,7 +28,7 @@ Zu den inhaltlichen Anforderungen gibt es ein paar Anleitungen und Ideen, wie si
 - eine "Kontakt"-Seite mit einem Formular und einer Adresse 
 - eine "Leistungen"-Seite, auf der man sehen kann, was das Unternehmen seinen Kunden bieten kann
 - eine "Home"-Seite, die den Besucher willkommen heißt 
-- eine Farbpalette, die auch die Farben '#2ea3f0' ("Picton Blue") und '#004aad' ("Cobalt) enthält
+- eine Farbpalette, die auch die Farben `#2ea3f0` ("Picton Blue") und `#004aad` ("Cobalt) enthält
 - eine Kopfzeile und eine Fußzeile, die Informationen wie die sozialen Medien, die Qualität der Dienstleistungen, die Erschwinglichkeit der Preise und die Freundlichkeit des Personals enthält.
 
 
